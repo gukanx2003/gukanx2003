@@ -1,11 +1,4 @@
 - 👋 Hi, I’m @gukanx2003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-- Android Develope
-- proficient in Java, Kotlin. 
-- Builds efficient, user-centric applications. 
-- Focused on performance, memory management, and usability.
-
+- 👀 I’m interested in Android Develope proficient in Java, Kotlin..
+- 🌱 I’m currently learning Builds efficient, user-centric applications.
+- 💞️ Focused on performance, memory management, and usability.
